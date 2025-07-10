@@ -8,3 +8,19 @@
   --col1: rgb(248, 68, 100);
   --col2: #333444;
 }
+
+.linkstylenone{
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+}
+
+.theme_btn1{
+    background-color: var(--col1);
+    color: white;
+    border: none;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
